@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="television_frame">
+    <file>television_frame.png</file>
+  </qresource>
+</RCC>

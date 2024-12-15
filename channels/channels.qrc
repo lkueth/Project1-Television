@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="channels">
+    <file>channel1.png</file>
+    <file>channel2.png</file>
+    <file>channel3.png</file>
+    <file>channel4png.png</file>
+    <file>channel5.png</file>
+    <file>channel6.png</file>
+    <file>channel7.png</file>
+    <file>channel8.png</file>
+    <file>channel9.png</file>
+    <file>off.png</file>
+  </qresource>
+</RCC>
